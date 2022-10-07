@@ -2,8 +2,8 @@
 掲示板webapplicationのソースコードです
 
 環境設定として
-[tbtest]
-$dsn = *******
-$user = *******
-$password = *****
+[tbtest]    
+$dsn = *******  
+$user = *******  
+$password = *****  
 を設定してください。
