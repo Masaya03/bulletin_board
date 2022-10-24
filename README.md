@@ -1,4 +1,4 @@
-# tech_base
+# bulletin_board
 掲示板webapplicationのソースコードです
 
 環境設定として  
